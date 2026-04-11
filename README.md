@@ -4,9 +4,7 @@ style="width:100%; max-width:1100px; border-radius:18px; box-shadow:0 10px 25px 
 </div>
 
 
-<div align="center">
-  <img height="150" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://drive.google.com/file/d/1n9MDwIXOZ9ZWd _8q7p38sGAkx-mbJbex/view?usp=drive_link)"  />
-</div>
+
 
 
 
