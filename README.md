@@ -6,8 +6,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </div>
 
 ###
@@ -18,15 +18,15 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey I'am SYM 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me <br><br>Hi, I'm Sanyam Patel 👋  <br>A B.Tech CSE (Cybersecurity) student at Parul University.<br><br>I am passionate about cybersecurity, ethical hacking, and web development.  <br>Currently learning and building projects to improve my skills.<br><br>I enjoy creating content and sharing knowledge about cybersecurity.<br><br>🚀 Goals:<br>- Become a cybersecurity expert  <br>- Build real-world security tools  <br>- Grow my personal brand online  <br><br>📫 Connect with me:  <br>YouTube: @cybersanyampatel</h3>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left"></p>
+<p align="left">Hello, I'm Sanyam Patel 👋  <br><br>Cybersecurity Student | Ethical Hacking Enthusiast | Content Creator  <br><br>I am currently pursuing B.Tech in Computer Science with a specialization in Cybersecurity at Parul University.  <br>I have a strong interest in protecting systems, analyzing vulnerabilities, and building secure applications.<br><br>I actively work on projects related to web development and cybersecurity while also creating educational content.<br><br>💡 What I Do:<br>- Cybersecurity Learning & Practice  <br>- Web Development Projects  <br>- Content Creation (YouTube & Instagram)  <br><br>🎯 Mission:<br>To become a skilled cybersecurity professional and help others stay safe online.<br><br>📢 YouTube: @Xplainersanyam</p>
 
 ###
 
@@ -35,17 +35,15 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
 
 ###
@@ -59,4 +57,3 @@
 </div>
 
 ###
-
