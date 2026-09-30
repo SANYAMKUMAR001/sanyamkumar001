@@ -35,7 +35,7 @@ style="width:100%; max-width:1100px; border-radius:18px; box-shadow:0 10px 25px 
 
 ###
 
-<p align="left">Hello, I'm Sanyam Kumar 👋  <br><br>Cybersecurity Student | Ethical Hacking Enthusiast | Content Creator  <br><br>I am currently pursuing B.Tech in Computer Science with a specialization in Cybersecurity at Parul University.  <br>I have a strong interest in protecting systems, analyzing vulnerabilities, and building secure applications.<br><br>I actively work on projects related to web development and cybersecurity while also creating educational content.<br><br>💡 What I Do:<br>- Cybersecurity Learning & Practice  <br>- Web Development Projects  <br>- Content Creation (YouTube & Instagram)  <br><br>🎯 Mission:<br>To become a skilled cybersecurity professional and help others stay safe online.<br><br>📢 YouTube: @Xplainersanyam</p>
+<p align="left">Hello, I'm Sanyam Kumar 👋  <br><br>Cybersecurity Student | Ethical Hacking Enthusiast | Content Creator  <br><br>I am currently pursuing B.Tech in Computer Science with a specialization in Cybersecurity at Parul University.  <br>I have a strong interest in protecting systems, analyzing vulnerabilities, and building secure applications.<br><br>I actively work on projects related to web development and cybersecurity while also creating educational content.<br><br>💡 What I Do:<br>- Cybersecurity Learning & Practice  <br>- Web Development Projects  <br>- Content Creation (YouTube & Instagram)  <br><br>🎯 Mission:<br>To become a skilled cybersecurity professional and help others stay safe online.<br><br>📢 YouTube: @realsympatel</p>
 
 ###
 
